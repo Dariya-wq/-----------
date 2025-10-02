@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+
+<body>
+   <ol>
+       <li>book</li>
+       <li>pen</li>
+       <li>pencil</li>
+   </ol>
+</body>
+
+<body>
+   <ul>
+       <li>book</li>
+       <li>pen</li>
+       <li>pencil</li>
+   </ul>
+</body>
+
+<body>
+   <table border="3">
+       <tr>
+           <th>имя</th>
+           <th>день 2</th>
+       </tr>
+       <tr>
+           <td>дария</td>
+           <td>суббота</td>
+       </tr>
+   </table>
+</body>
+
+</body>
+</html>
+
+
