@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Внешние стили</title>
+   <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+   <h1>Заголовок страницы</h1>
+   <h2>Заголовок страницы 2</h2>
+   <p>Это пример параграфа с внешними стилями.</p>
+   <p class="highlight">Этот текст выделен красным цветом и жирным шрифтом.</p>
+   <ul li>стиль </ul li>
+</body>
+</html>
+body {
+   font-family: Arial, sans-serif;
+   background-color: #f0f0f0;
+   margin: 20px;
+}
+h1 {
+   color: #333;
+   text-align: center;
+}
+.highlight {
+   color: red;
+   font-weight: bold;
+}
+p {
+   color: blue;
+   font-size: 16px;
+}
+ul li {
+    color:#f0f0f0;
+    font-size: 16px;
+}
